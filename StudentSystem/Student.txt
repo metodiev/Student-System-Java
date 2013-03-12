@@ -1,0 +1,5 @@
+Student name:Miroslav
+Student age:21
+Student course:3
+Student group:4
+Student fakNumber:011208080
